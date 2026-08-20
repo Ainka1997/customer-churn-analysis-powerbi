@@ -160,29 +160,3 @@ customer-churn-analysis/
 5.  Save the Power BI file as `Customer_Churn_Analysis.pbix`.
 6.  Add the `.pbix` file to the repository if its size is suitable for
     GitHub.
-
-## Portfolio Value
-
-This project demonstrates more than dashboard formatting. It shows the
-ability to:
-
--   Translate a business problem into analytical questions
--   Clean and validate real-world-style data
--   Use SQL for data preparation
--   Create DAX measures
--   Build an executive-facing Power BI dashboard
--   Identify actionable churn and retention patterns
--   Present insights in a business-friendly format
-
-## Suggested Repository Name
-
-`customer-churn-analysis-powerbi`
-
-## Suggested LinkedIn Project Description
-
-Built an end-to-end **Customer Churn Analysis Dashboard** using Power BI
-and SQL. Analyzed 7K+ customer records to identify churn patterns by
-contract type, tenure, services and customer segments. Built DAX
-measures for churn rate, retention and customer KPIs, and translated the
-analysis into an executive-friendly dashboard with actionable retention
-insights.
